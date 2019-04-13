@@ -4,5 +4,5 @@ export default function About() {
       <Layout>
         <p>This is the about page</p>
       </Layout>
-    )
+   )
   }

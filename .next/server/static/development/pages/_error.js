@@ -94,9 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/object/create.js":
-/*!**********************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
-  \**********************************************************************/
+/*!******************************************************************************!*\
+  !*** ../NextJS/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
+  \******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -105,9 +105,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/create */ "co
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js":
-/*!*******************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
-  \*******************************************************************************/
+/*!***************************************************************************************!*\
+  !*** ../NextJS/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -116,9 +116,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js":
-/*!********************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
-  \********************************************************************************/
+/*!****************************************************************************************!*\
+  !*** ../NextJS/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -127,9 +127,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-prototype
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js":
-/*!********************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
-  \********************************************************************************/
+/*!****************************************************************************************!*\
+  !*** ../NextJS/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -138,9 +138,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/set-prototype
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/symbol.js":
-/*!***************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
-  \***************************************************************/
+/*!***********************************************************************!*\
+  !*** ../NextJS/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
+  \***********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -149,9 +149,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol */ "core-js/l
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js":
-/*!************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
-  \************************************************************************/
+/*!********************************************************************************!*\
+  !*** ../NextJS/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
+  \********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -160,9 +160,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol/iterator */ "
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js":
-/*!******************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js ***!
-  \******************************************************************************/
+/*!**************************************************************************************!*\
+  !*** ../NextJS/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -179,9 +179,9 @@ module.exports = _assertThisInitialized;
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js":
-/*!***********************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js ***!
-  \***********************************************************************/
+/*!*******************************************************************************!*\
+  !*** ../NextJS/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js ***!
+  \*******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -196,9 +196,9 @@ module.exports = _classCallCheck;
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/createClass.js":
-/*!********************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/helpers/createClass.js ***!
-  \********************************************************************/
+/*!****************************************************************************!*\
+  !*** ../NextJS/node_modules/@babel/runtime-corejs2/helpers/createClass.js ***!
+  \****************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -226,9 +226,9 @@ module.exports = _createClass;
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js":
-/*!***********************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js ***!
-  \***********************************************************************/
+/*!*******************************************************************************!*\
+  !*** ../NextJS/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js ***!
+  \*******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -248,9 +248,9 @@ module.exports = _getPrototypeOf;
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/inherits.js":
-/*!*****************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/helpers/inherits.js ***!
-  \*****************************************************************/
+/*!*************************************************************************!*\
+  !*** ../NextJS/node_modules/@babel/runtime-corejs2/helpers/inherits.js ***!
+  \*************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -278,9 +278,9 @@ module.exports = _inherits;
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js":
-/*!******************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
-  \******************************************************************************/
+/*!**************************************************************************************!*\
+  !*** ../NextJS/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -295,9 +295,9 @@ module.exports = _interopRequireDefault;
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js":
-/*!**********************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js ***!
-  \**********************************************************************************/
+/*!******************************************************************************************!*\
+  !*** ../NextJS/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -318,9 +318,9 @@ module.exports = _possibleConstructorReturn;
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js":
-/*!***********************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js ***!
-  \***********************************************************************/
+/*!*******************************************************************************!*\
+  !*** ../NextJS/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js ***!
+  \*******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -340,9 +340,9 @@ module.exports = _setPrototypeOf;
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/typeof.js":
-/*!***************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
-  \***************************************************************/
+/*!***********************************************************************!*\
+  !*** ../NextJS/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
+  \***********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -371,9 +371,9 @@ module.exports = _typeof;
 /***/ }),
 
 /***/ "./node_modules/http-status/lib/index.js":
-/*!***********************************************!*\
-  !*** ./node_modules/http-status/lib/index.js ***!
-  \***********************************************/
+/*!*******************************************************!*\
+  !*** ../NextJS/node_modules/http-status/lib/index.js ***!
+  \*******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -505,9 +505,9 @@ module.exports = {
 /***/ }),
 
 /***/ "./node_modules/next/dist/pages/_error.js":
-/*!************************************************!*\
-  !*** ./node_modules/next/dist/pages/_error.js ***!
-  \************************************************/
+/*!********************************************************!*\
+  !*** ../NextJS/node_modules/next/dist/pages/_error.js ***!
+  \********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
