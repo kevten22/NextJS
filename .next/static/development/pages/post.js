@@ -9836,7 +9836,7 @@ var Page = function Page(props) {
 
 /***/ }),
 
-/***/ 2:
+/***/ 0:
 /*!***********************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fpost&absolutePagePath=C%3A%5CUsers%5Ckevte%5CLambdaSchool%5Cnextjs%5Cpages%5Cpost.js ***!
   \***********************************************************************************************************************************/
@@ -9859,5 +9859,5 @@ module.exports = dll_afa7b25a60452594c240;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=post.js.map
