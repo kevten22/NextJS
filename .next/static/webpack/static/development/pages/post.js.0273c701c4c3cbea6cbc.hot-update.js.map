@@ -1,1 +1,0 @@
-{"version":3,"file":"static/webpack/static\\development\\pages\\post.js.0273c701c4c3cbea6cbc.hot-update.js","sources":["webpack:///./pages/post.js"],"sourcesContent":["import { withRouter } from 'next/router'\r\nimport Layout from '../components/MyLayout.js'\r\n\r\nconst Page = withRouter()"],"mappings":";;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AACA;AAEA;;;;A","sourceRoot":""}
